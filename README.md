@@ -1,1 +1,1 @@
-# hiscore
+# HiScore

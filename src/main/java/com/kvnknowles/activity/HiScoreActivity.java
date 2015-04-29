@@ -1,0 +1,14 @@
+package com.kvnknowles.activity;
+
+import android.app.Activity;
+import android.os.Bundle;
+import com.kvnknowles.R;
+
+public class HiScoreActivity extends Activity {
+
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.hiscore);
+  }
+}
